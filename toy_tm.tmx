@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+ <!--
+   TMX Header: Contains metadata about the translation memory file.
+   srclang="EN-US": Sets the source language to US English.
+   o-tmf: The tool that created the file.
+   creationdate: The date the file was created.
+ -->
+ <header
+   creationtool="Gemini"
+   creationtoolversion="1.0"
+   datatype="plaintext"
+   segtype="sentence"
+   adminlang="EN-US"
+   srclang="EN-US"
+   o-tmf="OmegaT"/>
+ <body>
+   <!--
+     Translation Unit (tu): Each <tu> block contains a source segment and its corresponding translation(s).
+   -->
+
+
+   <!-- Example 1: The base sentence -->
+   <tu tuid="1">
+     <tuv xml:lang="EN-US">
+       <seg>The company’s stock price fell.</seg>
+     </tuv>
+     <tuv xml:lang="ZH-HK">
+       <seg>公司股價下跌。</seg>
+     </tuv>
+   </tu>
+
+
+   <!-- Example 2: Semantically opposite, but high string similarity -->
+   <tu tuid="2">
+     <tuv xml:lang="EN-US">
+       <seg>The company’s stock price rose.</seg>
+     </tuv>
+     <tuv xml:lang="ZH-HK">
+       <seg>公司股價上漲。</seg>
+     </tuv>
+   </tu>
+
+
+   <!-- Example 3: Semantically similar, but lower string similarity -->
+   <tu tuid="3">
+     <tuv xml:lang="EN-US">
+       <seg>The company’s stock price plummeted.</seg>
+     </tuv>
+     <tuv xml:lang="ZH-HK">
+       <seg>公司股價暴跌。</seg>
+     </tuv>
+   </tu>
+
+
+   <!-- Example 4: Paraphrase with low string similarity -->
+   <tu tuid="4">
+     <tuv xml:lang="EN-US">
+       <seg>The company experienced a significant drop in its stock price.</seg>
+     </tuv>
+     <tuv xml:lang="ZH-HK">
+       <seg>公司股價大幅下跌。</seg>
+     </tuv>
+   </tu>
+
+
+ </body>
+</tmx>
+
+

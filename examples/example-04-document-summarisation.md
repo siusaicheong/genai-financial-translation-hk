@@ -14,9 +14,11 @@ The LLM delivered a multifaceted summary. It explained the sub-tenancy agreement
 > Summarise and explain the key points of the following financial text:
 >
 > SUB-TENANCY AGREEMENT
+> >
 > On XX July 2025, XXX Limited (as sub-landlord) entered into a Sub-Tenancy Agreement with YYY Limited (as sub-tenant), pursuant to which XXX Limited agreed to sublet the premises to YYY Limited for a term commencing from XX July 2025 to XX March 2027 (both days inclusive).
 >
 > LISTING RULES IMPLICATIONS
+
 > The Sub-Tenancy Agreement triggered the Company to de-recognise the right-of-use assets for the head lease under the Head Tenancy Agreement, and at the same time, recognise the value of the lease receivable and a net gain in connection with the sublease of the premises under the Sub-Tenancy Agreement. Accordingly, the transaction under the Sub-Tenancy Agreement is regarded as a disposal of asset by the sub-landlord for the purpose of the Listing Rules.
 
 ### Model Output:

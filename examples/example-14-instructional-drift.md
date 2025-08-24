@@ -13,7 +13,7 @@ In Round 1, the user prompted the model to translate "Northern Metropolis" as "�
 ## Prompt and Model Output
 
 ### User Prompt (Round 1):
-```
+
 > Translate the following into Chinese (Note that Northern Metropolis is 北部都會區):
 >
 > The following is issued on behalf of the Hong Kong Monetary Authority:
@@ -39,7 +39,6 @@ In Round 1, the user prompted the model to translate "Northern Metropolis" as "�
 > Northern Metropolis development: With the HKMA's facilitation, the Hong Kong Association of Banks and the Chinese Banking Association of Hong Kong have recently engaged with the Development Bureau to gain an understanding of the latest development of the Northern Metropolis. The banking sector will explore ways to provide suitable financing support to tie in with the Government's implementation of large-scale land disposal and other developments. 
 >
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The HKMA and the banking sector will maintain close communication with the commercial sectors through the Mechanism and the Taskforce and work in concert to support the business development and transformation of SMEs.
-```
 
 ### Model Output (Round 1):
 > Here's a translation of the provided text into Chinese, aiming for clarity and accuracy suitable for a formal announcement:

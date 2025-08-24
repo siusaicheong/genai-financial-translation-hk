@@ -31,7 +31,7 @@ In Round 1, the user prompted the model to translate "Northern Metropolis" as "�
 > Construction sector: The participating banks will assist corporates facing cashflow pressure, particularly subcontractors in the construction sector that may be experiencing sudden cashflow pressure due to capital chain rupture, through a collaborative mechanism. The banks will collaboratively offer flexible financial arrangements as far as practicable to alleviate customers' cashflow pressure. 
 > 
 > Transport sector: The participating banks will actively consider introducing financing products that are better suited to the transport sector, with a view to supporting the Government's implementation of measures to enhance taxi services. The banks will offer more flexible repayment arrangements to assist customers in coping with operational challenges, taking into account individual circumstances. The banks will also consider correspondingly extending the loan tenor to support the development of the sector (Note 2).
-> ​
+> ​  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Furthermore, the HKMA and the banking sector will support the economic development of Hong Kong in other areas, including:
 > 
 > Lease extension: The banking sector will strengthen the promotion of the Extension of Government Leases Ordinance (the Ordinance) (Note 3). Banks will ensure that frontline staff are familiar with land lease extension matters under the Ordinance, so that they can properly address customers' mortgage enquiries related to land leases and offer suitable services to them. 
